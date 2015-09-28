@@ -1,0 +1,5 @@
+alias ls='ls --color'
+alias ll='ls -l'
+alias grep='grep --color'
+alias dirsize='du --max-depth=1 -xm'
+alias wpscan='ruby /opt/wpscan-2.8/wpscan.rb'
